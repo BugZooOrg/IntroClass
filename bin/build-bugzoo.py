@@ -10,7 +10,13 @@ FN_DEFECTS = os.path.join(DIR_ROOT, 'defect-classification.json')
 FN_BUGZOO = os.path.join(DIR_ROOT, 'introclass.bugzoo.yml')
 
 
+def find_num_tests(fn):
+    # type: (str) -> Tuple[int, int]
+    return 0, 0
+
+
 def build_bug(program, repo, revision):
+    # type: (str, str, str) -> Tuple[Dict[str, Any], Dict[str, Any]]
     # compute a name for the bug
     rev_short = revision.split('_')[0].rjust(3, '0')
     repo_short = repo[:6]
@@ -28,14 +34,10 @@ def build_bug(program, repo, revision):
         }
     }
 
-    print("building bug: {}".format(name_image))
-
     # determine the number of blackbox test cases
     dir_bug = os.path.join(DIR_ROOT, program, repo, rev_short)
     fn_blackbox = os.path.join(dir_bug, 'blackbox_test.sh')
-
-    num_passing = 0
-    num_failing = 0
+    num_passing, num_failing = find_num_tests(fn_blackbox)
 
     # determine the build commands
     cmd_build = 'gcc -o {0} {0}.c'.format(program)
@@ -66,6 +68,7 @@ def build_bug(program, repo, revision):
         }
     }
 
+    print("built bug: {}".format(name_bug))
     return bug, blueprint
 
 
