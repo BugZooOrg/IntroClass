@@ -11,7 +11,6 @@ RUN apt-get update \
 
 # install genprog test harness
 COPY bin/genprog_tests.py /usr/bin/gpth
-RUN chmod +x /usr/bin/gpth
 
 WORKDIR /experiment
 
