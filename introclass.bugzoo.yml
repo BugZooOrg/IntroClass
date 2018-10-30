@@ -3987,6 +3987,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-593b95-001
   languages:
@@ -4007,6 +4010,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-593b95-006
   languages:
@@ -4027,6 +4033,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-593b95-003
   languages:
@@ -4047,6 +4056,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-593b95-007
   languages:
@@ -4067,6 +4079,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-593b95-005
   languages:
@@ -4087,6 +4102,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-593b95-004
   languages:
@@ -4107,6 +4125,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-593b95-000
   languages:
@@ -4127,6 +4148,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-593b95-002
   languages:
@@ -4147,6 +4171,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - syllables.c
   dataset: introclass
   image: squareslab/introclass:syllables-593b95-001
   languages:
@@ -4167,6 +4194,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - syllables.c
   dataset: introclass
   image: squareslab/introclass:syllables-593b95-003
   languages:
@@ -4187,6 +4217,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - syllables.c
   dataset: introclass
   image: squareslab/introclass:syllables-593b95-002
   languages:
@@ -4207,6 +4240,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - syllables.c
   dataset: introclass
   image: squareslab/introclass:syllables-593b95-000
   languages:
@@ -4227,6 +4263,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-dccb12-001
   languages:
@@ -4247,6 +4286,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-93f87b-001
   languages:
@@ -4267,6 +4309,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-93f87b-000
   languages:
@@ -4287,6 +4332,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-93f87b-012
   languages:
@@ -4307,6 +4355,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-93f87b-016
   languages:
@@ -4327,6 +4378,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-93f87b-014
   languages:
@@ -4347,6 +4401,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-93f87b-008
   languages:
@@ -4367,6 +4424,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-93f87b-004
   languages:
@@ -4387,6 +4447,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-93f87b-006
   languages:
@@ -4407,6 +4470,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-93f87b-011
   languages:
@@ -4427,6 +4493,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-93f87b-001
   languages:
@@ -4447,6 +4516,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-93f87b-010
   languages:
@@ -4467,6 +4539,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-93f87b-015
   languages:
@@ -4487,6 +4562,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-93f87b-009
   languages:
@@ -4507,6 +4585,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-93f87b-003
   languages:
@@ -4527,6 +4608,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-93f87b-002
   languages:
@@ -4547,6 +4631,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-93f87b-005
   languages:
@@ -4567,6 +4654,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-93f87b-007
   languages:
@@ -4587,6 +4677,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-93f87b-013
   languages:
@@ -4607,6 +4700,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - syllables.c
   dataset: introclass
   image: squareslab/introclass:syllables-93f87b-005
   languages:
@@ -4627,6 +4723,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-93f87b-016
   languages:
@@ -4647,6 +4746,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-93f87b-014
   languages:
@@ -4667,6 +4769,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-93f87b-013
   languages:
@@ -4687,6 +4792,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-93f87b-015
   languages:
@@ -4707,6 +4815,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-f8d57d-001
   languages:
@@ -4727,6 +4838,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-f8d57d-002
   languages:
@@ -4747,6 +4861,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-f8d57d-000
   languages:
@@ -4767,6 +4884,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - syllables.c
   dataset: introclass
   image: squareslab/introclass:syllables-f8d57d-002
   languages:
@@ -4787,6 +4907,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-36d800-000
   languages:
@@ -4807,6 +4930,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-36d800-005
   languages:
@@ -4827,6 +4953,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-36d800-001
   languages:
@@ -4847,6 +4976,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-36d800-004
   languages:
@@ -4867,6 +4999,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-36d800-003
   languages:
@@ -4887,6 +5022,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-36d800-002
   languages:
@@ -4907,6 +5045,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - syllables.c
   dataset: introclass
   image: squareslab/introclass:syllables-36d800-000
   languages:
@@ -4927,6 +5068,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - syllables.c
   dataset: introclass
   image: squareslab/introclass:syllables-36d800-003
   languages:
@@ -4947,6 +5091,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - syllables.c
   dataset: introclass
   image: squareslab/introclass:syllables-36d800-004
   languages:
@@ -4967,6 +5114,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - syllables.c
   dataset: introclass
   image: squareslab/introclass:syllables-36d800-002
   languages:
@@ -4987,6 +5137,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - syllables.c
   dataset: introclass
   image: squareslab/introclass:syllables-36d800-001
   languages:
@@ -5007,6 +5160,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-36d800-000
   languages:
@@ -5027,6 +5183,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-c868b3-000
   languages:
@@ -5047,6 +5206,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-c868b3-002
   languages:
@@ -5067,6 +5229,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-c868b3-001
   languages:
@@ -5087,6 +5252,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - checksum.c
   dataset: introclass
   image: squareslab/introclass:checksum-ca94e3-006
   languages:
@@ -5107,6 +5275,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-ca94e3-000
   languages:
@@ -5127,6 +5298,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - digits.c
   dataset: introclass
   image: squareslab/introclass:digits-ca94e3-002
   languages:
@@ -5147,6 +5321,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - digits.c
   dataset: introclass
   image: squareslab/introclass:digits-ca94e3-000
   languages:
@@ -5167,6 +5344,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - digits.c
   dataset: introclass
   image: squareslab/introclass:digits-ca94e3-001
   languages:
@@ -5187,6 +5367,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - checksum.c
   dataset: introclass
   image: squareslab/introclass:checksum-08c7ea-007
   languages:
@@ -5207,6 +5390,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - checksum.c
   dataset: introclass
   image: squareslab/introclass:checksum-08c7ea-006
   languages:
@@ -5227,6 +5413,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - checksum.c
   dataset: introclass
   image: squareslab/introclass:checksum-08c7ea-012
   languages:
@@ -5247,6 +5436,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - checksum.c
   dataset: introclass
   image: squareslab/introclass:checksum-08c7ea-013
   languages:
@@ -5267,6 +5459,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - checksum.c
   dataset: introclass
   image: squareslab/introclass:checksum-08c7ea-010
   languages:
@@ -5287,6 +5482,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - checksum.c
   dataset: introclass
   image: squareslab/introclass:checksum-08c7ea-011
   languages:
@@ -5307,6 +5505,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - digits.c
   dataset: introclass
   image: squareslab/introclass:digits-08c7ea-000
   languages:
@@ -5327,6 +5528,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - digits.c
   dataset: introclass
   image: squareslab/introclass:digits-08c7ea-001
   languages:
@@ -5347,6 +5551,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-88394f-009
   languages:
@@ -5367,6 +5574,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-88394f-008
   languages:
@@ -5387,6 +5597,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-88394f-007
   languages:
@@ -5407,6 +5620,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-88394f-006
   languages:
@@ -5427,6 +5643,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - syllables.c
   dataset: introclass
   image: squareslab/introclass:syllables-88394f-000
   languages:
@@ -5447,6 +5666,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - syllables.c
   dataset: introclass
   image: squareslab/introclass:syllables-88394f-003
   languages:
@@ -5467,6 +5689,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - syllables.c
   dataset: introclass
   image: squareslab/introclass:syllables-88394f-004
   languages:
@@ -5487,6 +5712,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - syllables.c
   dataset: introclass
   image: squareslab/introclass:syllables-88394f-002
   languages:
@@ -5507,6 +5735,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - syllables.c
   dataset: introclass
   image: squareslab/introclass:syllables-88394f-005
   languages:
@@ -5527,6 +5758,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - syllables.c
   dataset: introclass
   image: squareslab/introclass:syllables-88394f-001
   languages:
@@ -5547,6 +5781,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - digits.c
   dataset: introclass
   image: squareslab/introclass:digits-88394f-002
   languages:
@@ -5567,6 +5804,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - digits.c
   dataset: introclass
   image: squareslab/introclass:digits-88394f-004
   languages:
@@ -5587,6 +5827,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - digits.c
   dataset: introclass
   image: squareslab/introclass:digits-88394f-001
   languages:
@@ -5607,6 +5850,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - digits.c
   dataset: introclass
   image: squareslab/introclass:digits-88394f-003
   languages:
@@ -5627,6 +5873,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - digits.c
   dataset: introclass
   image: squareslab/introclass:digits-88394f-000
   languages:
@@ -5647,6 +5896,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - syllables.c
   dataset: introclass
   image: squareslab/introclass:syllables-2af3c4-003
   languages:
@@ -5667,6 +5919,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - syllables.c
   dataset: introclass
   image: squareslab/introclass:syllables-2af3c4-002
   languages:
@@ -5687,6 +5942,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - syllables.c
   dataset: introclass
   image: squareslab/introclass:syllables-2af3c4-000
   languages:
@@ -5707,6 +5965,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - syllables.c
   dataset: introclass
   image: squareslab/introclass:syllables-2af3c4-001
   languages:
@@ -5727,6 +5988,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - digits.c
   dataset: introclass
   image: squareslab/introclass:digits-2af3c4-001
   languages:
@@ -5747,6 +6011,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - digits.c
   dataset: introclass
   image: squareslab/introclass:digits-2af3c4-000
   languages:
@@ -5767,6 +6034,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - digits.c
   dataset: introclass
   image: squareslab/introclass:digits-8cddfd-005
   languages:
@@ -5787,6 +6057,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-070455-002
   languages:
@@ -5807,6 +6080,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-070455-000
   languages:
@@ -5827,6 +6103,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-070455-001
   languages:
@@ -5847,6 +6126,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-070455-001
   languages:
@@ -5867,6 +6149,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-070455-000
   languages:
@@ -5887,6 +6172,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-070455-001
   languages:
@@ -5907,6 +6195,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-070455-002
   languages:
@@ -5927,6 +6218,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - digits.c
   dataset: introclass
   image: squareslab/introclass:digits-070455-001
   languages:
@@ -5947,6 +6241,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - digits.c
   dataset: introclass
   image: squareslab/introclass:digits-070455-000
   languages:
@@ -5967,6 +6264,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-92b7dd-002
   languages:
@@ -5987,6 +6287,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - checksum.c
   dataset: introclass
   image: squareslab/introclass:checksum-659a73-002
   languages:
@@ -6007,6 +6310,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - checksum.c
   dataset: introclass
   image: squareslab/introclass:checksum-659a73-003
   languages:
@@ -6027,6 +6333,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-15cb07-007
   languages:
@@ -6047,6 +6356,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-15cb07-004
   languages:
@@ -6067,6 +6379,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-15cb07-006
   languages:
@@ -6087,6 +6402,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-15cb07-002
   languages:
@@ -6107,6 +6425,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-15cb07-003
   languages:
@@ -6127,6 +6448,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-15cb07-005
   languages:
@@ -6147,6 +6471,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-15cb07-003
   languages:
@@ -6167,6 +6494,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-15cb07-002
   languages:
@@ -6187,6 +6517,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-15cb07-004
   languages:
@@ -6207,6 +6540,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-15cb07-001
   languages:
@@ -6227,6 +6563,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-dedc2a-000
   languages:
@@ -6247,6 +6586,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - digits.c
   dataset: introclass
   image: squareslab/introclass:digits-6e464f-004
   languages:
@@ -6267,6 +6609,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - digits.c
   dataset: introclass
   image: squareslab/introclass:digits-6e464f-003
   languages:
@@ -6287,6 +6632,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-6e464f-000
   languages:
@@ -6307,6 +6655,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-317aa7-002
   languages:
@@ -6327,6 +6678,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-317aa7-003
   languages:
@@ -6347,6 +6701,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-317aa7-001
   languages:
@@ -6367,6 +6724,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-317aa7-000
   languages:
@@ -6387,6 +6747,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-317aa7-002
   languages:
@@ -6407,6 +6770,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-317aa7-003
   languages:
@@ -6427,6 +6793,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-317aa7-004
   languages:
@@ -6447,6 +6816,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-317aa7-001
   languages:
@@ -6467,6 +6839,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-317aa7-000
   languages:
@@ -6487,6 +6862,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - digits.c
   dataset: introclass
   image: squareslab/introclass:digits-317aa7-004
   languages:
@@ -6507,6 +6885,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - digits.c
   dataset: introclass
   image: squareslab/introclass:digits-317aa7-001
   languages:
@@ -6527,6 +6908,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - digits.c
   dataset: introclass
   image: squareslab/introclass:digits-317aa7-002
   languages:
@@ -6547,6 +6931,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-818f8c-003
   languages:
@@ -6567,6 +6954,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-818f8c-002
   languages:
@@ -6587,6 +6977,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - syllables.c
   dataset: introclass
   image: squareslab/introclass:syllables-818f8c-005
   languages:
@@ -6607,6 +7000,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - syllables.c
   dataset: introclass
   image: squareslab/introclass:syllables-818f8c-006
   languages:
@@ -6627,6 +7023,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - syllables.c
   dataset: introclass
   image: squareslab/introclass:syllables-818f8c-002
   languages:
@@ -6647,6 +7046,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - syllables.c
   dataset: introclass
   image: squareslab/introclass:syllables-818f8c-003
   languages:
@@ -6667,6 +7069,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - syllables.c
   dataset: introclass
   image: squareslab/introclass:syllables-818f8c-001
   languages:
@@ -6687,6 +7092,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - syllables.c
   dataset: introclass
   image: squareslab/introclass:syllables-818f8c-004
   languages:
@@ -6707,6 +7115,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - syllables.c
   dataset: introclass
   image: squareslab/introclass:syllables-818f8c-000
   languages:
@@ -6727,6 +7138,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - syllables.c
   dataset: introclass
   image: squareslab/introclass:syllables-818f8c-007
   languages:
@@ -6747,6 +7161,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-1391c9-005
   languages:
@@ -6767,6 +7184,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-1391c9-004
   languages:
@@ -6787,6 +7207,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-1391c9-002
   languages:
@@ -6807,6 +7230,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-1391c9-003
   languages:
@@ -6827,6 +7253,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - digits.c
   dataset: introclass
   image: squareslab/introclass:digits-1391c9-002
   languages:
@@ -6847,6 +7276,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - digits.c
   dataset: introclass
   image: squareslab/introclass:digits-1391c9-000
   languages:
@@ -6867,6 +7299,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - digits.c
   dataset: introclass
   image: squareslab/introclass:digits-1391c9-001
   languages:
@@ -6887,6 +7322,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-97f6b1-002
   languages:
@@ -6907,6 +7345,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-97f6b1-000
   languages:
@@ -6927,6 +7368,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-97f6b1-003
   languages:
@@ -6947,6 +7391,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-97f6b1-001
   languages:
@@ -6967,6 +7414,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-97f6b1-001
   languages:
@@ -6987,6 +7437,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-97f6b1-000
   languages:
@@ -7007,6 +7460,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-97f6b1-003
   languages:
@@ -7027,6 +7483,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - syllables.c
   dataset: introclass
   image: squareslab/introclass:syllables-97f6b1-000
   languages:
@@ -7047,6 +7506,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-97f6b1-000
   languages:
@@ -7067,6 +7529,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-fe9d5f-001
   languages:
@@ -7087,6 +7552,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-fe9d5f-001
   languages:
@@ -7107,6 +7575,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-fe9d5f-000
   languages:
@@ -7127,6 +7598,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-fe9d5f-002
   languages:
@@ -7147,6 +7621,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - syllables.c
   dataset: introclass
   image: squareslab/introclass:syllables-fe9d5f-000
   languages:
@@ -7167,6 +7644,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-fe9d5f-003
   languages:
@@ -7187,6 +7667,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-fe9d5f-001
   languages:
@@ -7207,6 +7690,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-fe9d5f-000
   languages:
@@ -7227,6 +7713,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-fe9d5f-004
   languages:
@@ -7247,6 +7736,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-fe9d5f-002
   languages:
@@ -7267,6 +7759,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-68ea5d-000
   languages:
@@ -7287,6 +7782,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-89b1a7-010
   languages:
@@ -7307,6 +7805,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-89b1a7-008
   languages:
@@ -7327,6 +7828,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-89b1a7-005
   languages:
@@ -7347,6 +7851,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-89b1a7-006
   languages:
@@ -7367,6 +7874,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-89b1a7-007
   languages:
@@ -7387,6 +7897,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-89b1a7-009
   languages:
@@ -7407,6 +7920,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-89b1a7-002
   languages:
@@ -7427,6 +7943,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-89b1a7-003
   languages:
@@ -7447,6 +7966,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-89b1a7-002
   languages:
@@ -7467,6 +7989,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-89b1a7-003
   languages:
@@ -7487,6 +8012,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-89b1a7-000
   languages:
@@ -7507,6 +8035,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-89b1a7-004
   languages:
@@ -7527,6 +8058,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-89b1a7-001
   languages:
@@ -7547,6 +8081,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-89b1a7-005
   languages:
@@ -7567,6 +8104,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - digits.c
   dataset: introclass
   image: squareslab/introclass:digits-65e02c-008
   languages:
@@ -7587,6 +8127,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - digits.c
   dataset: introclass
   image: squareslab/introclass:digits-65e02c-004
   languages:
@@ -7607,6 +8150,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - syllables.c
   dataset: introclass
   image: squareslab/introclass:syllables-99cbb4-001
   languages:
@@ -7627,6 +8173,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - syllables.c
   dataset: introclass
   image: squareslab/introclass:syllables-99cbb4-003
   languages:
@@ -7647,6 +8196,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - syllables.c
   dataset: introclass
   image: squareslab/introclass:syllables-99cbb4-000
   languages:
@@ -7667,6 +8219,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - syllables.c
   dataset: introclass
   image: squareslab/introclass:syllables-99cbb4-006
   languages:
@@ -7687,6 +8242,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - syllables.c
   dataset: introclass
   image: squareslab/introclass:syllables-99cbb4-004
   languages:
@@ -7707,6 +8265,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - syllables.c
   dataset: introclass
   image: squareslab/introclass:syllables-99cbb4-002
   languages:
@@ -7727,6 +8288,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - syllables.c
   dataset: introclass
   image: squareslab/introclass:syllables-99cbb4-005
   languages:
@@ -7747,6 +8311,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-d12048-000
   languages:
@@ -7767,6 +8334,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - syllables.c
   dataset: introclass
   image: squareslab/introclass:syllables-d12048-000
   languages:
@@ -7787,6 +8357,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-387be3-000
   languages:
@@ -7807,6 +8380,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - digits.c
   dataset: introclass
   image: squareslab/introclass:digits-387be3-002
   languages:
@@ -7827,6 +8403,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - digits.c
   dataset: introclass
   image: squareslab/introclass:digits-f94e26-003
   languages:
@@ -7847,6 +8426,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - digits.c
   dataset: introclass
   image: squareslab/introclass:digits-f94e26-002
   languages:
@@ -7867,6 +8449,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - syllables.c
   dataset: introclass
   image: squareslab/introclass:syllables-bfad6d-001
   languages:
@@ -7887,6 +8472,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-bfad6d-001
   languages:
@@ -7907,6 +8495,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-bfad6d-000
   languages:
@@ -7927,6 +8518,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-d8b262-000
   languages:
@@ -7947,6 +8541,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-d8b262-001
   languages:
@@ -7967,6 +8564,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - digits.c
   dataset: introclass
   image: squareslab/introclass:digits-d8b262-000
   languages:
@@ -7987,6 +8587,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-9c9308-007
   languages:
@@ -8007,6 +8610,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-9c9308-003
   languages:
@@ -8027,6 +8633,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-9c9308-000
   languages:
@@ -8047,6 +8656,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-9c9308-004
   languages:
@@ -8067,6 +8679,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-9c9308-002
   languages:
@@ -8087,6 +8702,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-9c9308-001
   languages:
@@ -8107,6 +8725,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-9c9308-005
   languages:
@@ -8127,6 +8748,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-9c9308-006
   languages:
@@ -8147,6 +8771,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-9c9308-012
   languages:
@@ -8167,6 +8794,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-9c9308-007
   languages:
@@ -8187,6 +8817,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-9c9308-002
   languages:
@@ -8207,6 +8840,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-9c9308-009
   languages:
@@ -8227,6 +8863,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-9c9308-003
   languages:
@@ -8247,6 +8886,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-9c9308-000
   languages:
@@ -8267,6 +8909,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-9c9308-004
   languages:
@@ -8287,6 +8932,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-9c9308-008
   languages:
@@ -8307,6 +8955,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-9c9308-001
   languages:
@@ -8327,6 +8978,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-9c9308-006
   languages:
@@ -8347,6 +9001,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-846021-005
   languages:
@@ -8367,6 +9024,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-846021-000
   languages:
@@ -8387,6 +9047,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-846021-002
   languages:
@@ -8407,6 +9070,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-846021-003
   languages:
@@ -8427,6 +9093,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-846021-007
   languages:
@@ -8447,6 +9116,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-846021-010
   languages:
@@ -8467,6 +9139,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-846021-009
   languages:
@@ -8487,6 +9162,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-846021-004
   languages:
@@ -8507,6 +9185,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-846021-008
   languages:
@@ -8527,6 +9208,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-846021-011
   languages:
@@ -8547,6 +9231,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-846021-006
   languages:
@@ -8567,6 +9254,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-846021-001
   languages:
@@ -8587,6 +9277,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-2c1556-000
   languages:
@@ -8607,6 +9300,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-f2997e-001
   languages:
@@ -8627,6 +9323,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-f2997e-002
   languages:
@@ -8647,6 +9346,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-f2997e-000
   languages:
@@ -8667,6 +9369,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - digits.c
   dataset: introclass
   image: squareslab/introclass:digits-f2997e-000
   languages:
@@ -8687,6 +9392,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - digits.c
   dataset: introclass
   image: squareslab/introclass:digits-f2997e-002
   languages:
@@ -8707,6 +9415,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - digits.c
   dataset: introclass
   image: squareslab/introclass:digits-f2997e-001
   languages:
@@ -8727,6 +9438,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-295afd-004
   languages:
@@ -8747,6 +9461,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-295afd-011
   languages:
@@ -8767,6 +9484,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-295afd-012
   languages:
@@ -8787,6 +9507,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-295afd-006
   languages:
@@ -8807,6 +9530,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-295afd-007
   languages:
@@ -8827,6 +9553,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-295afd-002
   languages:
@@ -8847,6 +9576,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-295afd-009
   languages:
@@ -8867,6 +9599,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-295afd-008
   languages:
@@ -8887,6 +9622,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-295afd-003
   languages:
@@ -8907,6 +9645,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-295afd-000
   languages:
@@ -8927,6 +9668,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-295afd-001
   languages:
@@ -8947,6 +9691,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-295afd-005
   languages:
@@ -8967,6 +9714,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-295afd-010
   languages:
@@ -8987,6 +9737,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - digits.c
   dataset: introclass
   image: squareslab/introclass:digits-295afd-003
   languages:
@@ -9007,6 +9760,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - digits.c
   dataset: introclass
   image: squareslab/introclass:digits-295afd-001
   languages:
@@ -9027,6 +9783,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - digits.c
   dataset: introclass
   image: squareslab/introclass:digits-295afd-000
   languages:
@@ -9047,6 +9806,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - checksum.c
   dataset: introclass
   image: squareslab/introclass:checksum-3214e9-003
   languages:
@@ -9067,6 +9829,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - checksum.c
   dataset: introclass
   image: squareslab/introclass:checksum-3214e9-004
   languages:
@@ -9087,6 +9852,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - checksum.c
   dataset: introclass
   image: squareslab/introclass:checksum-3214e9-001
   languages:
@@ -9107,6 +9875,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - checksum.c
   dataset: introclass
   image: squareslab/introclass:checksum-3214e9-000
   languages:
@@ -9127,6 +9898,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - digits.c
   dataset: introclass
   image: squareslab/introclass:digits-3214e9-000
   languages:
@@ -9147,6 +9921,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - syllables.c
   dataset: introclass
   image: squareslab/introclass:syllables-ca5057-004
   languages:
@@ -9167,6 +9944,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - syllables.c
   dataset: introclass
   image: squareslab/introclass:syllables-ca5057-000
   languages:
@@ -9187,6 +9967,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - syllables.c
   dataset: introclass
   image: squareslab/introclass:syllables-ca5057-002
   languages:
@@ -9207,6 +9990,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - syllables.c
   dataset: introclass
   image: squareslab/introclass:syllables-ca5057-003
   languages:
@@ -9227,6 +10013,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - syllables.c
   dataset: introclass
   image: squareslab/introclass:syllables-ca5057-001
   languages:
@@ -9247,6 +10036,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - digits.c
   dataset: introclass
   image: squareslab/introclass:digits-ca5057-001
   languages:
@@ -9267,6 +10059,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - digits.c
   dataset: introclass
   image: squareslab/introclass:digits-ca5057-003
   languages:
@@ -9287,6 +10082,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - digits.c
   dataset: introclass
   image: squareslab/introclass:digits-ca5057-002
   languages:
@@ -9307,6 +10105,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - digits.c
   dataset: introclass
   image: squareslab/introclass:digits-ca5057-000
   languages:
@@ -9327,6 +10128,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - digits.c
   dataset: introclass
   image: squareslab/introclass:digits-a3d177-000
   languages:
@@ -9347,6 +10151,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-b1924d-000
   languages:
@@ -9367,6 +10174,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-b1924d-001
   languages:
@@ -9387,6 +10197,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-b1924d-002
   languages:
@@ -9407,6 +10220,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - syllables.c
   dataset: introclass
   image: squareslab/introclass:syllables-b1924d-002
   languages:
@@ -9427,6 +10243,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - syllables.c
   dataset: introclass
   image: squareslab/introclass:syllables-b1924d-000
   languages:
@@ -9447,6 +10266,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - syllables.c
   dataset: introclass
   image: squareslab/introclass:syllables-b1924d-004
   languages:
@@ -9467,6 +10289,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - syllables.c
   dataset: introclass
   image: squareslab/introclass:syllables-b1924d-003
   languages:
@@ -9487,6 +10312,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - syllables.c
   dataset: introclass
   image: squareslab/introclass:syllables-b1924d-001
   languages:
@@ -9507,6 +10335,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - syllables.c
   dataset: introclass
   image: squareslab/introclass:syllables-b1924d-005
   languages:
@@ -9527,6 +10358,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-b1924d-002
   languages:
@@ -9547,6 +10381,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-b1924d-001
   languages:
@@ -9567,6 +10404,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-b1924d-003
   languages:
@@ -9587,6 +10427,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-b1924d-000
   languages:
@@ -9607,6 +10450,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-833bd4-000
   languages:
@@ -9627,6 +10473,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-833bd4-003
   languages:
@@ -9647,6 +10496,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-833bd4-001
   languages:
@@ -9667,6 +10519,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-833bd4-002
   languages:
@@ -9687,6 +10542,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - syllables.c
   dataset: introclass
   image: squareslab/introclass:syllables-d5059e-002
   languages:
@@ -9707,6 +10565,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - syllables.c
   dataset: introclass
   image: squareslab/introclass:syllables-d5059e-001
   languages:
@@ -9727,6 +10588,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - syllables.c
   dataset: introclass
   image: squareslab/introclass:syllables-d5059e-000
   languages:
@@ -9747,6 +10611,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - digits.c
   dataset: introclass
   image: squareslab/introclass:digits-d5059e-000
   languages:
@@ -9767,6 +10634,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-90a14c-001
   languages:
@@ -9787,6 +10657,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-90a14c-000
   languages:
@@ -9807,6 +10680,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-90a14c-001
   languages:
@@ -9827,6 +10703,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-90a14c-000
   languages:
@@ -9847,6 +10726,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-90a14c-002
   languages:
@@ -9867,6 +10749,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - syllables.c
   dataset: introclass
   image: squareslab/introclass:syllables-90a14c-002
   languages:
@@ -9887,6 +10772,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - syllables.c
   dataset: introclass
   image: squareslab/introclass:syllables-90a14c-001
   languages:
@@ -9907,6 +10795,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - syllables.c
   dataset: introclass
   image: squareslab/introclass:syllables-90a14c-000
   languages:
@@ -9927,6 +10818,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - digits.c
   dataset: introclass
   image: squareslab/introclass:digits-90a14c-004
   languages:
@@ -9947,6 +10841,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-908348-004
   languages:
@@ -9967,6 +10864,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-908348-005
   languages:
@@ -9987,6 +10887,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-908348-001
   languages:
@@ -10007,6 +10910,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-908348-009
   languages:
@@ -10027,6 +10933,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-908348-014
   languages:
@@ -10047,6 +10956,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-908348-013
   languages:
@@ -10067,6 +10979,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-908348-007
   languages:
@@ -10087,6 +11002,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-908348-005
   languages:
@@ -10107,6 +11025,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-908348-011
   languages:
@@ -10127,6 +11048,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-908348-003
   languages:
@@ -10147,6 +11071,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-908348-000
   languages:
@@ -10167,6 +11094,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-908348-012
   languages:
@@ -10187,6 +11117,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-908348-006
   languages:
@@ -10207,6 +11140,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-908348-010
   languages:
@@ -10227,6 +11163,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-908348-015
   languages:
@@ -10247,6 +11186,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-908348-004
   languages:
@@ -10267,6 +11209,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-908348-002
   languages:
@@ -10287,6 +11232,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-908348-008
   languages:
@@ -10307,6 +11255,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-908348-009
   languages:
@@ -10327,6 +11278,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-908348-011
   languages:
@@ -10347,6 +11301,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-908348-010
   languages:
@@ -10367,6 +11324,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-908348-013
   languages:
@@ -10387,6 +11347,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - syllables.c
   dataset: introclass
   image: squareslab/introclass:syllables-f5b56c-001
   languages:
@@ -10407,6 +11370,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - syllables.c
   dataset: introclass
   image: squareslab/introclass:syllables-f5b56c-000
   languages:
@@ -10427,6 +11393,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - syllables.c
   dataset: introclass
   image: squareslab/introclass:syllables-f5b56c-003
   languages:
@@ -10447,6 +11416,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - syllables.c
   dataset: introclass
   image: squareslab/introclass:syllables-f5b56c-002
   languages:
@@ -10467,6 +11439,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-f5b56c-005
   languages:
@@ -10487,6 +11462,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-f5b56c-008
   languages:
@@ -10507,6 +11485,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-f5b56c-009
   languages:
@@ -10527,6 +11508,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-f5b56c-011
   languages:
@@ -10547,6 +11531,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-f5b56c-000
   languages:
@@ -10567,6 +11554,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-f5b56c-003
   languages:
@@ -10587,6 +11577,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-f5b56c-006
   languages:
@@ -10607,6 +11600,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-f5b56c-012
   languages:
@@ -10627,6 +11623,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-f5b56c-002
   languages:
@@ -10647,6 +11646,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-f5b56c-007
   languages:
@@ -10667,6 +11669,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-f5b56c-004
   languages:
@@ -10687,6 +11692,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-f5b56c-010
   languages:
@@ -10707,6 +11715,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-f5b56c-001
   languages:
@@ -10727,6 +11738,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - digits.c
   dataset: introclass
   image: squareslab/introclass:digits-f5b56c-000
   languages:
@@ -10747,6 +11761,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-e9c620-000
   languages:
@@ -10767,6 +11784,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-e9c620-001
   languages:
@@ -10787,6 +11807,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-e9c620-000
   languages:
@@ -10807,6 +11830,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-0cea42-002
   languages:
@@ -10827,6 +11853,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-0cea42-006
   languages:
@@ -10847,6 +11876,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-0cea42-004
   languages:
@@ -10867,6 +11899,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-0cea42-005
   languages:
@@ -10887,6 +11922,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-0cea42-007
   languages:
@@ -10907,6 +11945,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-0cea42-003
   languages:
@@ -10927,6 +11968,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-0cea42-001
   languages:
@@ -10947,6 +11991,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-0cea42-008
   languages:
@@ -10967,6 +12014,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-0cea42-000
   languages:
@@ -10987,6 +12037,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - syllables.c
   dataset: introclass
   image: squareslab/introclass:syllables-0cea42-005
   languages:
@@ -11007,6 +12060,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - syllables.c
   dataset: introclass
   image: squareslab/introclass:syllables-0cea42-004
   languages:
@@ -11027,6 +12083,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - syllables.c
   dataset: introclass
   image: squareslab/introclass:syllables-0cea42-002
   languages:
@@ -11047,6 +12106,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - syllables.c
   dataset: introclass
   image: squareslab/introclass:syllables-0cea42-000
   languages:
@@ -11067,6 +12129,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - syllables.c
   dataset: introclass
   image: squareslab/introclass:syllables-0cea42-003
   languages:
@@ -11087,6 +12152,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - syllables.c
   dataset: introclass
   image: squareslab/introclass:syllables-0cea42-001
   languages:
@@ -11107,6 +12175,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - syllables.c
   dataset: introclass
   image: squareslab/introclass:syllables-0cea42-006
   languages:
@@ -11127,6 +12198,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - digits.c
   dataset: introclass
   image: squareslab/introclass:digits-0cea42-002
   languages:
@@ -11147,6 +12221,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - digits.c
   dataset: introclass
   image: squareslab/introclass:digits-0cea42-000
   languages:
@@ -11167,6 +12244,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - digits.c
   dataset: introclass
   image: squareslab/introclass:digits-0cea42-001
   languages:
@@ -11187,6 +12267,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-0cea42-002
   languages:
@@ -11207,6 +12290,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-0cea42-003
   languages:
@@ -11227,6 +12313,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-0cea42-001
   languages:
@@ -11247,6 +12336,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-0cea42-004
   languages:
@@ -11267,6 +12359,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-0cea42-000
   languages:
@@ -11287,6 +12382,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-30074a-005
   languages:
@@ -11307,6 +12405,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-30074a-001
   languages:
@@ -11327,6 +12428,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-30074a-006
   languages:
@@ -11347,6 +12451,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-30074a-008
   languages:
@@ -11367,6 +12474,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-30074a-007
   languages:
@@ -11387,6 +12497,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-30074a-000
   languages:
@@ -11407,6 +12520,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-30074a-004
   languages:
@@ -11427,6 +12543,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-30074a-002
   languages:
@@ -11447,6 +12566,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-30074a-003
   languages:
@@ -11467,6 +12589,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-30074a-009
   languages:
@@ -11487,6 +12612,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-30074a-002
   languages:
@@ -11507,6 +12635,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-30074a-001
   languages:
@@ -11527,6 +12658,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-30074a-000
   languages:
@@ -11547,6 +12681,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - checksum.c
   dataset: introclass
   image: squareslab/introclass:checksum-30074a-007
   languages:
@@ -11567,6 +12704,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-30074a-002
   languages:
@@ -11587,6 +12727,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-30074a-001
   languages:
@@ -11607,6 +12750,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-30074a-003
   languages:
@@ -11627,6 +12773,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-30074a-004
   languages:
@@ -11647,6 +12796,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - digits.c
   dataset: introclass
   image: squareslab/introclass:digits-30074a-001
   languages:
@@ -11667,6 +12819,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - digits.c
   dataset: introclass
   image: squareslab/introclass:digits-30074a-000
   languages:
@@ -11687,6 +12842,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - digits.c
   dataset: introclass
   image: squareslab/introclass:digits-30074a-002
   languages:
@@ -11707,6 +12865,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - digits.c
   dataset: introclass
   image: squareslab/introclass:digits-30074a-004
   languages:
@@ -11727,6 +12888,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - digits.c
   dataset: introclass
   image: squareslab/introclass:digits-30074a-005
   languages:
@@ -11747,6 +12911,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - digits.c
   dataset: introclass
   image: squareslab/introclass:digits-30074a-003
   languages:
@@ -11767,6 +12934,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - syllables.c
   dataset: introclass
   image: squareslab/introclass:syllables-dde0a4-009
   languages:
@@ -11787,6 +12957,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - syllables.c
   dataset: introclass
   image: squareslab/introclass:syllables-dde0a4-006
   languages:
@@ -11807,6 +12980,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - syllables.c
   dataset: introclass
   image: squareslab/introclass:syllables-dde0a4-008
   languages:
@@ -11827,6 +13003,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - syllables.c
   dataset: introclass
   image: squareslab/introclass:syllables-dde0a4-007
   languages:
@@ -11847,6 +13026,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-d6364e-007
   languages:
@@ -11867,6 +13049,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-d6364e-005
   languages:
@@ -11887,6 +13072,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-d6364e-006
   languages:
@@ -11907,6 +13095,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - digits.c
   dataset: introclass
   image: squareslab/introclass:digits-d6364e-000
   languages:
@@ -11927,6 +13118,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - digits.c
   dataset: introclass
   image: squareslab/introclass:digits-d6364e-001
   languages:
@@ -11947,6 +13141,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-d6364e-001
   languages:
@@ -11967,6 +13164,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-d6364e-007
   languages:
@@ -11987,6 +13187,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-d6364e-002
   languages:
@@ -12007,6 +13210,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-d6364e-005
   languages:
@@ -12027,6 +13233,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-d6364e-003
   languages:
@@ -12047,6 +13256,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-d6364e-000
   languages:
@@ -12067,6 +13279,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-d6364e-004
   languages:
@@ -12087,6 +13302,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-d6364e-006
   languages:
@@ -12107,6 +13325,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-5b504b-000
   languages:
@@ -12127,6 +13348,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-98d873-000
   languages:
@@ -12147,6 +13371,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-98d873-002
   languages:
@@ -12167,6 +13394,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-98d873-001
   languages:
@@ -12187,6 +13417,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-98d873-000
   languages:
@@ -12207,6 +13440,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-98d873-001
   languages:
@@ -12227,6 +13463,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - checksum.c
   dataset: introclass
   image: squareslab/introclass:checksum-98d873-001
   languages:
@@ -12247,6 +13486,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - checksum.c
   dataset: introclass
   image: squareslab/introclass:checksum-98d873-002
   languages:
@@ -12267,6 +13509,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - checksum.c
   dataset: introclass
   image: squareslab/introclass:checksum-98d873-000
   languages:
@@ -12287,6 +13532,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-98d873-004
   languages:
@@ -12307,6 +13555,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - digits.c
   dataset: introclass
   image: squareslab/introclass:digits-98d873-001
   languages:
@@ -12327,6 +13578,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - digits.c
   dataset: introclass
   image: squareslab/introclass:digits-98d873-002
   languages:
@@ -12347,6 +13601,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - digits.c
   dataset: introclass
   image: squareslab/introclass:digits-98d873-000
   languages:
@@ -12367,6 +13624,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - digits.c
   dataset: introclass
   image: squareslab/introclass:digits-98d873-003
   languages:
@@ -12387,6 +13647,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-dc11fb-000
   languages:
@@ -12407,6 +13670,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - digits.c
   dataset: introclass
   image: squareslab/introclass:digits-f227ed-000
   languages:
@@ -12427,6 +13693,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-d4aae1-000
   languages:
@@ -12447,6 +13716,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-0cdfa3-004
   languages:
@@ -12467,6 +13739,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-0cdfa3-002
   languages:
@@ -12487,6 +13762,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-0cdfa3-003
   languages:
@@ -12507,6 +13785,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-0cdfa3-003
   languages:
@@ -12527,6 +13808,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - digits.c
   dataset: introclass
   image: squareslab/introclass:digits-0cdfa3-000
   languages:
@@ -12547,6 +13831,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - digits.c
   dataset: introclass
   image: squareslab/introclass:digits-0cdfa3-003
   languages:
@@ -12567,6 +13854,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - digits.c
   dataset: introclass
   image: squareslab/introclass:digits-0cdfa3-001
   languages:
@@ -12587,6 +13877,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - digits.c
   dataset: introclass
   image: squareslab/introclass:digits-0cdfa3-002
   languages:
@@ -12607,6 +13900,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - digits.c
   dataset: introclass
   image: squareslab/introclass:digits-0cdfa3-005
   languages:
@@ -12627,6 +13923,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - digits.c
   dataset: introclass
   image: squareslab/introclass:digits-0cdfa3-006
   languages:
@@ -12647,6 +13946,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-ea67b8-003
   languages:
@@ -12667,6 +13969,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-ea67b8-002
   languages:
@@ -12687,6 +13992,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-ea67b8-000
   languages:
@@ -12707,6 +14015,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-ea67b8-001
   languages:
@@ -12727,6 +14038,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-aaceaf-000
   languages:
@@ -12747,6 +14061,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-aaceaf-002
   languages:
@@ -12767,6 +14084,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-aaceaf-004
   languages:
@@ -12787,6 +14107,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-aaceaf-003
   languages:
@@ -12807,6 +14130,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-aaceaf-001
   languages:
@@ -12827,6 +14153,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-aaceaf-006
   languages:
@@ -12847,6 +14176,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-aaceaf-005
   languages:
@@ -12867,6 +14199,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-aaceaf-000
   languages:
@@ -12887,6 +14222,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-aaceaf-002
   languages:
@@ -12907,6 +14245,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-aaceaf-004
   languages:
@@ -12927,6 +14268,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-aaceaf-003
   languages:
@@ -12947,6 +14291,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-aaceaf-001
   languages:
@@ -12967,6 +14314,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-aaceaf-006
   languages:
@@ -12987,6 +14337,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-aaceaf-005
   languages:
@@ -13007,6 +14360,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-ee1f20-006
   languages:
@@ -13027,6 +14383,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-ee1f20-000
   languages:
@@ -13047,6 +14406,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-ee1f20-001
   languages:
@@ -13067,6 +14429,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-e23b96-004
   languages:
@@ -13087,6 +14452,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-e23b96-001
   languages:
@@ -13107,6 +14475,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-e23b96-000
   languages:
@@ -13127,6 +14498,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-e23b96-002
   languages:
@@ -13147,6 +14521,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-e23b96-005
   languages:
@@ -13167,6 +14544,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-e23b96-003
   languages:
@@ -13187,6 +14567,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-8c7dfb-008
   languages:
@@ -13207,6 +14590,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-8c7dfb-001
   languages:
@@ -13227,6 +14613,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-8c7dfb-007
   languages:
@@ -13247,6 +14636,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-8c7dfb-005
   languages:
@@ -13267,6 +14659,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-8c7dfb-000
   languages:
@@ -13287,6 +14682,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-8c7dfb-006
   languages:
@@ -13307,6 +14705,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-8c7dfb-002
   languages:
@@ -13327,6 +14728,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-8c7dfb-003
   languages:
@@ -13347,6 +14751,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-8c7dfb-004
   languages:
@@ -13367,6 +14774,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-8c7dfb-003
   languages:
@@ -13387,6 +14797,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-8c7dfb-006
   languages:
@@ -13407,6 +14820,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-8c7dfb-007
   languages:
@@ -13427,6 +14843,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-8c7dfb-005
   languages:
@@ -13447,6 +14866,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-8c7dfb-004
   languages:
@@ -13467,6 +14889,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-8c7dfb-008
   languages:
@@ -13487,6 +14912,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-8c7dfb-002
   languages:
@@ -13507,6 +14935,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-8c7dfb-001
   languages:
@@ -13527,6 +14958,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-8c7dfb-000
   languages:
@@ -13547,6 +14981,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-489253-007
   languages:
@@ -13567,6 +15004,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - syllables.c
   dataset: introclass
   image: squareslab/introclass:syllables-489253-007
   languages:
@@ -13587,6 +15027,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - syllables.c
   dataset: introclass
   image: squareslab/introclass:syllables-489253-005
   languages:
@@ -13607,6 +15050,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - syllables.c
   dataset: introclass
   image: squareslab/introclass:syllables-489253-003
   languages:
@@ -13627,6 +15073,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - syllables.c
   dataset: introclass
   image: squareslab/introclass:syllables-489253-004
   languages:
@@ -13647,6 +15096,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - syllables.c
   dataset: introclass
   image: squareslab/introclass:syllables-489253-006
   languages:
@@ -13667,6 +15119,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - syllables.c
   dataset: introclass
   image: squareslab/introclass:syllables-489253-002
   languages:
@@ -13687,6 +15142,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-489253-000
   languages:
@@ -13707,6 +15165,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-489253-011
   languages:
@@ -13727,6 +15188,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-489253-009
   languages:
@@ -13747,6 +15211,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-489253-007
   languages:
@@ -13767,6 +15234,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-489253-002
   languages:
@@ -13787,6 +15257,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-489253-010
   languages:
@@ -13807,6 +15280,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-489253-005
   languages:
@@ -13827,6 +15303,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-489253-004
   languages:
@@ -13847,6 +15326,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-489253-006
   languages:
@@ -13867,6 +15349,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-489253-001
   languages:
@@ -13887,6 +15372,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-489253-003
   languages:
@@ -13907,6 +15395,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-489253-008
   languages:
@@ -13927,6 +15418,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-68eb0b-002
   languages:
@@ -13947,6 +15441,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-68eb0b-001
   languages:
@@ -13967,6 +15464,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-68eb0b-000
   languages:
@@ -13987,6 +15487,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-68eb0b-000
   languages:
@@ -14007,6 +15510,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - syllables.c
   dataset: introclass
   image: squareslab/introclass:syllables-68eb0b-004
   languages:
@@ -14027,6 +15533,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - syllables.c
   dataset: introclass
   image: squareslab/introclass:syllables-68eb0b-008
   languages:
@@ -14047,6 +15556,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - syllables.c
   dataset: introclass
   image: squareslab/introclass:syllables-68eb0b-006
   languages:
@@ -14067,6 +15579,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - syllables.c
   dataset: introclass
   image: squareslab/introclass:syllables-68eb0b-009
   languages:
@@ -14087,6 +15602,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - syllables.c
   dataset: introclass
   image: squareslab/introclass:syllables-68eb0b-007
   languages:
@@ -14107,6 +15625,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - syllables.c
   dataset: introclass
   image: squareslab/introclass:syllables-68eb0b-003
   languages:
@@ -14127,6 +15648,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - syllables.c
   dataset: introclass
   image: squareslab/introclass:syllables-68eb0b-000
   languages:
@@ -14147,6 +15671,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - syllables.c
   dataset: introclass
   image: squareslab/introclass:syllables-68eb0b-002
   languages:
@@ -14167,6 +15694,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - syllables.c
   dataset: introclass
   image: squareslab/introclass:syllables-68eb0b-005
   languages:
@@ -14187,6 +15717,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - syllables.c
   dataset: introclass
   image: squareslab/introclass:syllables-68eb0b-001
   languages:
@@ -14207,6 +15740,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-8ce634-000
   languages:
@@ -14227,6 +15763,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-8ce634-001
   languages:
@@ -14247,6 +15786,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-8ce634-000
   languages:
@@ -14267,6 +15809,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-8ce634-001
   languages:
@@ -14287,6 +15832,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-1b31fa-004
   languages:
@@ -14307,6 +15855,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-1b31fa-005
   languages:
@@ -14327,6 +15878,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-1b31fa-006
   languages:
@@ -14347,6 +15901,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-1b31fa-003
   languages:
@@ -14367,6 +15924,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-1b31fa-000
   languages:
@@ -14387,6 +15947,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-1b31fa-001
   languages:
@@ -14407,6 +15970,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-1b31fa-002
   languages:
@@ -14427,6 +15993,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-1b31fa-000
   languages:
@@ -14447,6 +16016,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-1b31fa-003
   languages:
@@ -14467,6 +16039,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-1b31fa-001
   languages:
@@ -14487,6 +16062,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-1b31fa-002
   languages:
@@ -14507,6 +16085,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-1c2bb3-000
   languages:
@@ -14527,6 +16108,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-1c2bb3-002
   languages:
@@ -14547,6 +16131,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-1c2bb3-001
   languages:
@@ -14567,6 +16154,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - digits.c
   dataset: introclass
   image: squareslab/introclass:digits-1c2bb3-002
   languages:
@@ -14587,6 +16177,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - digits.c
   dataset: introclass
   image: squareslab/introclass:digits-1c2bb3-001
   languages:
@@ -14607,6 +16200,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - digits.c
   dataset: introclass
   image: squareslab/introclass:digits-1c2bb3-003
   languages:
@@ -14627,6 +16223,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - digits.c
   dataset: introclass
   image: squareslab/introclass:digits-1c2bb3-005
   languages:
@@ -14647,6 +16246,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - digits.c
   dataset: introclass
   image: squareslab/introclass:digits-1c2bb3-000
   languages:
@@ -14667,6 +16269,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - digits.c
   dataset: introclass
   image: squareslab/introclass:digits-1c2bb3-006
   languages:
@@ -14687,6 +16292,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-1c2bb3-000
   languages:
@@ -14707,6 +16315,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-1c2bb3-003
   languages:
@@ -14727,6 +16338,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-1c2bb3-002
   languages:
@@ -14747,6 +16361,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-1c2bb3-001
   languages:
@@ -14767,6 +16384,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-fcf701-000
   languages:
@@ -14787,6 +16407,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-fcf701-002
   languages:
@@ -14807,6 +16430,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-fcf701-001
   languages:
@@ -14827,6 +16453,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - syllables.c
   dataset: introclass
   image: squareslab/introclass:syllables-fcf701-002
   languages:
@@ -14847,6 +16476,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - syllables.c
   dataset: introclass
   image: squareslab/introclass:syllables-fcf701-003
   languages:
@@ -14867,6 +16499,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-d2b889-000
   languages:
@@ -14887,6 +16522,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - digits.c
   dataset: introclass
   image: squareslab/introclass:digits-d2b889-006
   languages:
@@ -14907,6 +16545,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-2694af-000
   languages:
@@ -14927,6 +16568,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - digits.c
   dataset: introclass
   image: squareslab/introclass:digits-d767ad-005
   languages:
@@ -14947,6 +16591,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - digits.c
   dataset: introclass
   image: squareslab/introclass:digits-d767ad-002
   languages:
@@ -14967,6 +16614,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - digits.c
   dataset: introclass
   image: squareslab/introclass:digits-d767ad-007
   languages:
@@ -14987,6 +16637,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - digits.c
   dataset: introclass
   image: squareslab/introclass:digits-d767ad-001
   languages:
@@ -15007,6 +16660,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - digits.c
   dataset: introclass
   image: squareslab/introclass:digits-d767ad-003
   languages:
@@ -15027,6 +16683,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - digits.c
   dataset: introclass
   image: squareslab/introclass:digits-d767ad-000
   languages:
@@ -15047,6 +16706,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - digits.c
   dataset: introclass
   image: squareslab/introclass:digits-d767ad-006
   languages:
@@ -15067,6 +16729,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - digits.c
   dataset: introclass
   image: squareslab/introclass:digits-d767ad-004
   languages:
@@ -15087,6 +16752,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-3cf6d3-004
   languages:
@@ -15107,6 +16775,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-3cf6d3-005
   languages:
@@ -15127,6 +16798,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-3cf6d3-006
   languages:
@@ -15147,6 +16821,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-3cf6d3-003
   languages:
@@ -15167,6 +16844,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-3cf6d3-007
   languages:
@@ -15187,6 +16867,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-3cf6d3-001
   languages:
@@ -15207,6 +16890,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-3cf6d3-005
   languages:
@@ -15227,6 +16913,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-3cf6d3-004
   languages:
@@ -15247,6 +16936,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-3cf6d3-000
   languages:
@@ -15267,6 +16959,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-3cf6d3-006
   languages:
@@ -15287,6 +16982,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-3cf6d3-002
   languages:
@@ -15307,6 +17005,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-3cf6d3-003
   languages:
@@ -15327,6 +17028,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-3cf6d3-007
   languages:
@@ -15347,6 +17051,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-3cf6d3-001
   languages:
@@ -15367,6 +17074,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-3cf6d3-010
   languages:
@@ -15387,6 +17097,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-3cf6d3-008
   languages:
@@ -15407,6 +17120,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-3cf6d3-005
   languages:
@@ -15427,6 +17143,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-3cf6d3-009
   languages:
@@ -15447,6 +17166,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-3cf6d3-013
   languages:
@@ -15467,6 +17189,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-3cf6d3-004
   languages:
@@ -15487,6 +17212,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-3cf6d3-011
   languages:
@@ -15507,6 +17235,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-3cf6d3-012
   languages:
@@ -15527,6 +17258,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-3cf6d3-006
   languages:
@@ -15547,6 +17281,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-3cf6d3-002
   languages:
@@ -15567,6 +17304,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-3cf6d3-003
   languages:
@@ -15587,6 +17327,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-d009aa-001
   languages:
@@ -15607,6 +17350,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-d009aa-000
   languages:
@@ -15627,6 +17373,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-d009aa-002
   languages:
@@ -15647,6 +17396,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-d009aa-001
   languages:
@@ -15667,6 +17419,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-d009aa-004
   languages:
@@ -15687,6 +17442,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-d009aa-000
   languages:
@@ -15707,6 +17465,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-d009aa-005
   languages:
@@ -15727,6 +17488,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-d009aa-002
   languages:
@@ -15747,6 +17511,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-d009aa-003
   languages:
@@ -15767,6 +17534,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-d009aa-001
   languages:
@@ -15787,6 +17557,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-5a5683-000
   languages:
@@ -15807,6 +17580,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-5a5683-001
   languages:
@@ -15827,6 +17603,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-5a5683-002
   languages:
@@ -15847,6 +17626,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-cb243b-000
   languages:
@@ -15867,6 +17649,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-cb243b-000
   languages:
@@ -15887,6 +17672,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-cb243b-001
   languages:
@@ -15907,6 +17695,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-a0e3fd-005
   languages:
@@ -15927,6 +17718,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-a0e3fd-001
   languages:
@@ -15947,6 +17741,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-a0e3fd-003
   languages:
@@ -15967,6 +17764,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-a0e3fd-006
   languages:
@@ -15987,6 +17787,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-a0e3fd-002
   languages:
@@ -16007,6 +17810,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-a0e3fd-000
   languages:
@@ -16027,6 +17833,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-a0e3fd-004
   languages:
@@ -16047,6 +17856,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - checksum.c
   dataset: introclass
   image: squareslab/introclass:checksum-a0e3fd-005
   languages:
@@ -16067,6 +17879,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - checksum.c
   dataset: introclass
   image: squareslab/introclass:checksum-a0e3fd-001
   languages:
@@ -16087,6 +17902,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - checksum.c
   dataset: introclass
   image: squareslab/introclass:checksum-a0e3fd-003
   languages:
@@ -16107,6 +17925,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - checksum.c
   dataset: introclass
   image: squareslab/introclass:checksum-a0e3fd-002
   languages:
@@ -16127,6 +17948,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - checksum.c
   dataset: introclass
   image: squareslab/introclass:checksum-a0e3fd-004
   languages:
@@ -16147,6 +17971,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - checksum.c
   dataset: introclass
   image: squareslab/introclass:checksum-a0e3fd-000
   languages:
@@ -16167,6 +17994,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-a0e3fd-004
   languages:
@@ -16187,6 +18017,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-a0e3fd-002
   languages:
@@ -16207,6 +18040,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-a0e3fd-011
   languages:
@@ -16227,6 +18063,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-a0e3fd-005
   languages:
@@ -16247,6 +18086,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-a0e3fd-000
   languages:
@@ -16267,6 +18109,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-a0e3fd-010
   languages:
@@ -16287,6 +18132,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-a0e3fd-009
   languages:
@@ -16307,6 +18155,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-a0e3fd-003
   languages:
@@ -16327,6 +18178,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-a0e3fd-001
   languages:
@@ -16347,6 +18201,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-a0e3fd-012
   languages:
@@ -16367,6 +18224,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - digits.c
   dataset: introclass
   image: squareslab/introclass:digits-a0e3fd-003
   languages:
@@ -16387,6 +18247,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-d25c71-001
   languages:
@@ -16407,6 +18270,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-d25c71-000
   languages:
@@ -16427,6 +18293,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-d25c71-002
   languages:
@@ -16447,6 +18316,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - digits.c
   dataset: introclass
   image: squareslab/introclass:digits-d25c71-005
   languages:
@@ -16467,6 +18339,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - digits.c
   dataset: introclass
   image: squareslab/introclass:digits-d25c71-001
   languages:
@@ -16487,6 +18362,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - digits.c
   dataset: introclass
   image: squareslab/introclass:digits-d25c71-003
   languages:
@@ -16507,6 +18385,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - digits.c
   dataset: introclass
   image: squareslab/introclass:digits-d25c71-002
   languages:
@@ -16527,6 +18408,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - digits.c
   dataset: introclass
   image: squareslab/introclass:digits-d25c71-000
   languages:
@@ -16547,6 +18431,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - digits.c
   dataset: introclass
   image: squareslab/introclass:digits-d25c71-004
   languages:
@@ -16567,6 +18454,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-b6fd40-001
   languages:
@@ -16587,6 +18477,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-b6fd40-000
   languages:
@@ -16607,6 +18500,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - syllables.c
   dataset: introclass
   image: squareslab/introclass:syllables-b6fd40-000
   languages:
@@ -16627,6 +18523,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - checksum.c
   dataset: introclass
   image: squareslab/introclass:checksum-b6fd40-000
   languages:
@@ -16647,6 +18546,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - checksum.c
   dataset: introclass
   image: squareslab/introclass:checksum-b6fd40-001
   languages:
@@ -16667,6 +18569,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-b6fd40-000
   languages:
@@ -16687,6 +18592,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-9013bd-000
   languages:
@@ -16707,6 +18615,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-9013bd-001
   languages:
@@ -16727,6 +18638,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-9013bd-000
   languages:
@@ -16747,6 +18661,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - syllables.c
   dataset: introclass
   image: squareslab/introclass:syllables-9013bd-000
   languages:
@@ -16767,6 +18684,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-9013bd-000
   languages:
@@ -16787,6 +18707,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-75c98d-000
   languages:
@@ -16807,6 +18730,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-75c98d-003
   languages:
@@ -16827,6 +18753,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-75c98d-001
   languages:
@@ -16847,6 +18776,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-75c98d-004
   languages:
@@ -16867,6 +18799,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-75c98d-002
   languages:
@@ -16887,6 +18822,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-3b2376-002
   languages:
@@ -16907,6 +18845,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-3b2376-000
   languages:
@@ -16927,6 +18868,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-3b2376-003
   languages:
@@ -16947,6 +18891,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-3b2376-001
   languages:
@@ -16967,6 +18914,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-3b2376-008
   languages:
@@ -16987,6 +18937,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-3b2376-004
   languages:
@@ -17007,6 +18960,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-3b2376-002
   languages:
@@ -17027,6 +18983,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-3b2376-003
   languages:
@@ -17047,6 +19006,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-3b2376-006
   languages:
@@ -17067,6 +19029,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-3b2376-005
   languages:
@@ -17087,6 +19052,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-3b2376-001
   languages:
@@ -17107,6 +19075,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-3b2376-000
   languages:
@@ -17127,6 +19098,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-3b2376-004
   languages:
@@ -17147,6 +19121,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - checksum.c
   dataset: introclass
   image: squareslab/introclass:checksum-3b2376-006
   languages:
@@ -17167,6 +19144,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-3b2376-003
   languages:
@@ -17187,6 +19167,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-3b2376-007
   languages:
@@ -17207,6 +19190,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-3b2376-002
   languages:
@@ -17227,6 +19213,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-3b2376-006
   languages:
@@ -17247,6 +19236,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-3b2376-005
   languages:
@@ -17267,6 +19259,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-3b2376-001
   languages:
@@ -17287,6 +19282,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-3b2376-000
   languages:
@@ -17307,6 +19305,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-3b2376-004
   languages:
@@ -17327,6 +19328,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-c716ee-001
   languages:
@@ -17347,6 +19351,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-c716ee-000
   languages:
@@ -17367,6 +19374,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-c716ee-002
   languages:
@@ -17387,6 +19397,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - syllables.c
   dataset: introclass
   image: squareslab/introclass:syllables-e9c74e-000
   languages:
@@ -17407,6 +19420,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-531924-001
   languages:
@@ -17427,6 +19443,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-531924-000
   languages:
@@ -17447,6 +19466,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-346b1d-011
   languages:
@@ -17467,6 +19489,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-346b1d-010
   languages:
@@ -17487,6 +19512,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-346b1d-009
   languages:
@@ -17507,6 +19535,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-346b1d-004
   languages:
@@ -17527,6 +19558,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-346b1d-003
   languages:
@@ -17547,6 +19581,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-346b1d-005
   languages:
@@ -17567,6 +19604,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-346b1d-006
   languages:
@@ -17587,6 +19627,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-346b1d-007
   languages:
@@ -17607,6 +19650,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-346b1d-008
   languages:
@@ -17627,6 +19673,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-346b1d-002
   languages:
@@ -17647,6 +19696,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - syllables.c
   dataset: introclass
   image: squareslab/introclass:syllables-37593d-003
   languages:
@@ -17667,6 +19719,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - syllables.c
   dataset: introclass
   image: squareslab/introclass:syllables-37593d-000
   languages:
@@ -17687,6 +19742,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - syllables.c
   dataset: introclass
   image: squareslab/introclass:syllables-37593d-005
   languages:
@@ -17707,6 +19765,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - syllables.c
   dataset: introclass
   image: squareslab/introclass:syllables-37593d-001
   languages:
@@ -17727,6 +19788,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - syllables.c
   dataset: introclass
   image: squareslab/introclass:syllables-37593d-004
   languages:
@@ -17747,6 +19811,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - syllables.c
   dataset: introclass
   image: squareslab/introclass:syllables-37593d-002
   languages:
@@ -17767,6 +19834,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - syllables.c
   dataset: introclass
   image: squareslab/introclass:syllables-37593d-006
   languages:
@@ -17787,6 +19857,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - syllables.c
   dataset: introclass
   image: squareslab/introclass:syllables-38eb99-003
   languages:
@@ -17807,6 +19880,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - syllables.c
   dataset: introclass
   image: squareslab/introclass:syllables-38eb99-001
   languages:
@@ -17827,6 +19903,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - syllables.c
   dataset: introclass
   image: squareslab/introclass:syllables-38eb99-002
   languages:
@@ -17847,6 +19926,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - syllables.c
   dataset: introclass
   image: squareslab/introclass:syllables-38eb99-004
   languages:
@@ -17867,6 +19949,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - checksum.c
   dataset: introclass
   image: squareslab/introclass:checksum-d5cc7a-000
   languages:
@@ -17887,6 +19972,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - checksum.c
   dataset: introclass
   image: squareslab/introclass:checksum-d5cc7a-002
   languages:
@@ -17907,6 +19995,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - checksum.c
   dataset: introclass
   image: squareslab/introclass:checksum-d5cc7a-001
   languages:
@@ -17927,6 +20018,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - syllables.c
   dataset: introclass
   image: squareslab/introclass:syllables-cd2d9b-001
   languages:
@@ -17947,6 +20041,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - syllables.c
   dataset: introclass
   image: squareslab/introclass:syllables-cd2d9b-002
   languages:
@@ -17967,6 +20064,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - syllables.c
   dataset: introclass
   image: squareslab/introclass:syllables-cd2d9b-004
   languages:
@@ -17987,6 +20087,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - syllables.c
   dataset: introclass
   image: squareslab/introclass:syllables-cd2d9b-003
   languages:
@@ -18007,6 +20110,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-cd2d9b-006
   languages:
@@ -18027,6 +20133,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-cd2d9b-009
   languages:
@@ -18047,6 +20156,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-cd2d9b-013
   languages:
@@ -18067,6 +20179,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-cd2d9b-001
   languages:
@@ -18087,6 +20202,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-cd2d9b-007
   languages:
@@ -18107,6 +20225,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-cd2d9b-005
   languages:
@@ -18127,6 +20248,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-cd2d9b-004
   languages:
@@ -18147,6 +20271,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-cd2d9b-012
   languages:
@@ -18167,6 +20294,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-cd2d9b-003
   languages:
@@ -18187,6 +20317,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-cd2d9b-011
   languages:
@@ -18207,6 +20340,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-cd2d9b-002
   languages:
@@ -18227,6 +20363,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-cd2d9b-008
   languages:
@@ -18247,6 +20386,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-cd2d9b-010
   languages:
@@ -18267,6 +20409,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - digits.c
   dataset: introclass
   image: squareslab/introclass:digits-cd2d9b-003
   languages:
@@ -18287,6 +20432,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - digits.c
   dataset: introclass
   image: squareslab/introclass:digits-cd2d9b-004
   languages:
@@ -18307,6 +20455,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-c9d718-002
   languages:
@@ -18327,6 +20478,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-c9d718-003
   languages:
@@ -18347,6 +20501,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-c9d718-001
   languages:
@@ -18367,6 +20524,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-c9d718-000
   languages:
@@ -18387,6 +20547,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-c9d718-000
   languages:
@@ -18407,6 +20570,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-c9d718-003
   languages:
@@ -18427,6 +20593,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-c9d718-004
   languages:
@@ -18447,6 +20616,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-c9d718-001
   languages:
@@ -18467,6 +20639,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-c9d718-002
   languages:
@@ -18487,6 +20662,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - digits.c
   dataset: introclass
   image: squareslab/introclass:digits-c9d718-001
   languages:
@@ -18507,6 +20685,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-953627-009
   languages:
@@ -18527,6 +20708,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-953627-003
   languages:
@@ -18547,6 +20731,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-953627-000
   languages:
@@ -18567,6 +20754,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-953627-002
   languages:
@@ -18587,6 +20777,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-953627-001
   languages:
@@ -18607,6 +20800,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-953627-016
   languages:
@@ -18627,6 +20823,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-953627-010
   languages:
@@ -18647,6 +20846,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-953627-012
   languages:
@@ -18667,6 +20869,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-953627-015
   languages:
@@ -18687,6 +20892,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-953627-006
   languages:
@@ -18707,6 +20915,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-953627-018
   languages:
@@ -18727,6 +20938,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-953627-007
   languages:
@@ -18747,6 +20961,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-953627-013
   languages:
@@ -18767,6 +20984,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-953627-008
   languages:
@@ -18787,6 +21007,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-953627-009
   languages:
@@ -18807,6 +21030,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-953627-011
   languages:
@@ -18827,6 +21053,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-953627-014
   languages:
@@ -18847,6 +21076,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-953627-017
   languages:
@@ -18867,6 +21099,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-48b829-000
   languages:
@@ -18887,6 +21122,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-48b829-001
   languages:
@@ -18907,6 +21145,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-48b829-000
   languages:
@@ -18927,6 +21168,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-48b829-000
   languages:
@@ -18947,6 +21191,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - checksum.c
   dataset: introclass
   image: squareslab/introclass:checksum-d43d32-000
   languages:
@@ -18967,6 +21214,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - digits.c
   dataset: introclass
   image: squareslab/introclass:digits-d43d32-000
   languages:
@@ -18987,6 +21237,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-6aaeaf-000
   languages:
@@ -19007,6 +21260,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-6aaeaf-001
   languages:
@@ -19027,6 +21283,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-769cd8-002
   languages:
@@ -19047,6 +21306,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-769cd8-000
   languages:
@@ -19067,6 +21329,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-769cd8-006
   languages:
@@ -19087,6 +21352,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-769cd8-010
   languages:
@@ -19107,6 +21375,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-769cd8-004
   languages:
@@ -19127,6 +21398,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-769cd8-001
   languages:
@@ -19147,6 +21421,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-769cd8-003
   languages:
@@ -19167,6 +21444,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-769cd8-000
   languages:
@@ -19187,6 +21467,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-af81ff-000
   languages:
@@ -19207,6 +21490,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-af81ff-001
   languages:
@@ -19227,6 +21513,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-af81ff-002
   languages:
@@ -19247,6 +21536,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-af81ff-000
   languages:
@@ -19267,6 +21559,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-af81ff-006
   languages:
@@ -19287,6 +21582,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-af81ff-007
   languages:
@@ -19307,6 +21605,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-af81ff-001
   languages:
@@ -19327,6 +21628,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-af81ff-004
   languages:
@@ -19347,6 +21651,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-af81ff-003
   languages:
@@ -19367,6 +21674,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-af81ff-002
   languages:
@@ -19387,6 +21697,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-af81ff-000
   languages:
@@ -19407,6 +21720,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-af81ff-005
   languages:
@@ -19427,6 +21743,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-af81ff-009
   languages:
@@ -19447,6 +21766,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-af81ff-006
   languages:
@@ -19467,6 +21789,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-af81ff-007
   languages:
@@ -19487,6 +21812,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-af81ff-001
   languages:
@@ -19507,6 +21835,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-af81ff-004
   languages:
@@ -19527,6 +21858,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-af81ff-003
   languages:
@@ -19547,6 +21881,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - grade.c
   dataset: introclass
   image: squareslab/introclass:grade-af81ff-008
   languages:
@@ -19567,6 +21904,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - digits.c
   dataset: introclass
   image: squareslab/introclass:digits-af81ff-001
   languages:
@@ -19587,6 +21927,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - digits.c
   dataset: introclass
   image: squareslab/introclass:digits-af81ff-002
   languages:
@@ -19607,6 +21950,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - digits.c
   dataset: introclass
   image: squareslab/introclass:digits-af81ff-000
   languages:
@@ -19627,6 +21973,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - digits.c
   dataset: introclass
   image: squareslab/introclass:digits-313d57-000
   languages:
@@ -19647,6 +21996,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-0cdfa3-010
   languages:
@@ -19667,6 +22019,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - median.c
   dataset: introclass
   image: squareslab/introclass:median-0cdfa3-010
   languages:
@@ -19687,6 +22042,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-f94e26-004
   languages:
@@ -19707,6 +22065,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-f94e26-004
   languages:
@@ -19727,6 +22088,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-d9e7ea-002
   languages:
@@ -19747,6 +22111,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - smallest.c
   dataset: introclass
   image: squareslab/introclass:smallest-d9e7ea-002
   languages:
@@ -19767,6 +22134,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - syllables.c
   dataset: introclass
   image: squareslab/introclass:syllables-c9d718-002
   languages:
@@ -19787,6 +22157,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - syllables.c
   dataset: introclass
   image: squareslab/introclass:syllables-d12048-004
   languages:
@@ -19807,6 +22180,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - syllables.c
   dataset: introclass
   image: squareslab/introclass:syllables-d12048-004
   languages:
@@ -19827,6 +22203,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - syllables.c
   dataset: introclass
   image: squareslab/introclass:syllables-035fe9-000
   languages:
@@ -19847,6 +22226,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - syllables.c
   dataset: introclass
   image: squareslab/introclass:syllables-035fe9-000
   languages:
@@ -19867,6 +22249,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - syllables.c
   dataset: introclass
   image: squareslab/introclass:syllables-d9e7ea-001
   languages:
@@ -19887,6 +22272,9 @@ bugs:
     context: /experiment
     time-limit: 10
     type: simple
+  coverage:
+    files-to-instrument:
+    - syllables.c
   dataset: introclass
   image: squareslab/introclass:syllables-ea67b8-007
   languages:

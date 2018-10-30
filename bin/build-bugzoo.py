@@ -53,6 +53,7 @@ def build_bug(program, repo, revision, output):
     cmd_ins = 'gcc --coverage -o {0} {0}.c'.format(program)
 
     # build the bug description
+    fn_source = '{}.c'.format(program)
     name_bug = ':'.join(['introclass'] + parts_name)
     bug = {
         'name': name_bug,
@@ -68,6 +69,7 @@ def build_bug(program, repo, revision, output):
             'failing': num_failing,
             'passing': num_passing
         },
+        'coverage': {'files-to-instrument': [fn_source]},
         'compiler': {
             'type': 'simple',
             'time-limit': 10,
