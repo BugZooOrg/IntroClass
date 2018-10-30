@@ -64,12 +64,14 @@ def build_bug(program, repo, revision, output):
         'test-harness': {
             'type': 'genprog',
             'time-limit': 10,
+            'command': './blackbox_test.sh __ID__',
             'failing': num_failing,
             'passing': num_passing
         },
         'compiler': {
             'type': 'simple',
             'time-limit': 10,
+            'context': '/experiment',
             'command': cmd_build,
             'command_clean': cmd_clean,
             'command_with_instrumentation': cmd_ins
