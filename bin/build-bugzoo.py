@@ -12,11 +12,19 @@ FN_BUGZOO = os.path.join(DIR_ROOT, 'introclass.bugzoo.yml')
 
 def find_num_tests(fn):
     # type: (str) -> Tuple[int, int]
-    return 0, 0
+    passing = 0
+    failing = 0
+    with open(fn, 'r') as f:
+        for l in f.readlines():
+            if l[0] == 'p':
+                passing += 1
+            elif l[0] == 'n':
+                failing += 1
+    return passing, failing
 
 
-def build_bug(program, repo, revision):
-    # type: (str, str, str) -> Tuple[Dict[str, Any], Dict[str, Any]]
+def build_bug(program, repo, revision, output):
+    # type: (str, str, str, Dict[str, Any]) -> bool
     # compute a name for the bug
     rev_short = revision.split('_')[0].rjust(3, '0')
     repo_short = repo[:6]
@@ -68,8 +76,18 @@ def build_bug(program, repo, revision):
         }
     }
 
-    print("built bug: {}".format(name_bug))
-    return bug, blueprint
+    # if this is a valid bug, write it to the output buffer
+    if num_failing == 0:
+        print("invalid bug [{}]: no failing tests".format(name_bug))
+        return False
+
+    m = "built bug: {} ({} passing tests, {} failing tests)"
+    m = m.format(name_bug, num_passing, num_failing)
+    print(m)
+
+    output['bugs'].append(bug)
+    output['blueprints'].append(blueprint)
+    return True
 
 
 def main():
@@ -82,13 +100,15 @@ def main():
     with open(FN_DEFECTS, 'r') as f:
         defects = json.load(f)
 
+    num_bugs = 0
     for details_defect in defects:
         program = details_defect['program']
         repo = details_defect['repo']
         revision = details_defect['revision']
-        bug, blueprint = build_bug(program, repo, revision)
-        output['bugs'].append(bug)
-        output['blueprints'].append(blueprint)
+        if build_bug(program, repo, revision, output):
+            num_bugs += 1
+
+    print("built {} bugs".format(num_bugs))
 
     # write to YAML
     with open(FN_BUGZOO, 'w') as f:
