@@ -6,6 +6,7 @@ RUN apt-get update \
       libc6-dev \
       gcovr \
       python3 \
+      sudo \
  && apt-get clean \
  && rm -rf /var/lib/apt/lists/*
 
